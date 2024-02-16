@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tminakshii
-- 👀 I’m interested in software developer
+- 👀 I’m interested in software developer jobs
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email me
