@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tminakshii
 - 👀 I’m interested in software developer jobs
-- 🌱 I’m currently learning python programming language
+- 🌱 I’m currently doing a Job as a react-native developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email me
 - 😄 Pronouns: her
